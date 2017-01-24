@@ -1,18 +1,8 @@
+
 <html>
+<body>
 
-	<head>
-		<title>SHAHED</title>
-	</head>
-	
-	
-	<body>
-		<a>
-<img src="asset1.jpg"/>
-	
-	
-	
-	
-	<body/>
+<img src="asset1.jpg">
 
-	
-<html/>
+</body>
+</html>
