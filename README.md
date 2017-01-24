@@ -9,7 +9,7 @@
 	
 	<h1 align="center">C R RAHMAN SHAHED </h1>
 	<!--<a href="https://www.facebook.com/RRSHAHED"> C R RAHMAN SHAHED</a> -->
-	<h3 align="center">Graphics Designer & Web Developer</h3>
+	<h3 align="center">Graphics Designer and Web Developer</h3>
 	<center>
 		<a href="https://www.facebook.com/RRSHAHED" target="_blank">
 				<img src="SHAHED_FACE_PSD.png" width="150px" height="163px" align="middle"/>
@@ -17,15 +17,15 @@
 	</center>
 	<!--<img src="SHAHED_FACE_PSD.png" width="120px" height="160px"/>-->
 	<hr>
-	<marquee>I am a freelance Graphics designer & Web developer, feel free to contact me
+	<marquee>I am a freelance Graphics designer and Web developer, feel free to contact me
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	I am a freelance Graphics designer & Web developer, feel free to contact me
+	I am a freelance Graphics designer adn Web developer, feel free to contact me
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	I am a freelance Graphics designer & Web developer, feel free to contact me
+	I am a freelance Graphics designer and Web developer, feel free to contact me
 	</marquee>
 	<hr>
 	<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="graphic_page.html"target="_blank">My Graphical Works</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="Webwork.html" target="_blank">My Web Works </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="aboutme.html" target="_blank">About Me</a> </h2>
