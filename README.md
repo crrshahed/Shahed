@@ -9,7 +9,7 @@
 	
 	<h1 align="center">C R RAHMAN SHAHED </h1>
 	<!--<a href="https://www.facebook.com/RRSHAHED"> C R RAHMAN SHAHED</a> -->
-	<h3 align="center">Graphics Designer and Web Developer</h3>
+	<h3 align="center">User Experience (UX) and User Interface (UI) Designer</h3>
 	<center>
 		<a href="https://www.facebook.com/RRSHAHED" target="_blank">
 				<img src="SHAHED_FACE_PSD.png" width="150px" height="163px" align="middle"/>
