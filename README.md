@@ -28,21 +28,6 @@
 	I am a freelance Graphics designer and Web developer, feel free to contact me
 	</marquee>
 	<hr>
-	<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="graphic_page.html"target="_blank">My Graphical Works</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="Webwork.html" target="_blank">My Web Works </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="aboutme.html" target="_blank">About Me</a> </h2>
-	<p>
-	&nbsp;&nbsp;&nbsp;&nbsp; I'm an experienced Graphics designer.                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Web developer in Town, Still learning though.. :p :D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click <a href="aboutme.html" target="_blank"> here</a> to know more about me! ;)<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; My top skills are:<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Background Removing/ Background Change.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Photo Alter/ Alter Image.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Photo Manipulation.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Photo Retouching.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Color Correction.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Masking.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Ghost Mannequin.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp; -Raster to Vector etc.
-	<P/>&nbsp;
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	
 	
 	
