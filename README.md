@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="asset1.jpg">
+<img src="pic.png">
 
 </body>
 </html>
