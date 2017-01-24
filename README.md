@@ -5,7 +5,9 @@
 	</head>
 	
 	
-	<body background="asset1.jpg">
+	<body>
+		<a>
+<img src="asset.jpg"/>
 	
 	
 	
