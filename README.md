@@ -17,15 +17,15 @@
 	</center>
 	<!--<img src="SHAHED_FACE_PSD.png" width="120px" height="160px"/>-->
 	<hr>
-	<marquee>I am a freelance Graphics designer and Web developer, feel free to contact me
+	<marquee>It's your imaginationation which comes alive with your design
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	I am a freelance Graphics designer adn Web developer, feel free to contact me
+	It's your imaginationation which comes alive with your design
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	I am a freelance Graphics designer and Web developer, feel free to contact me
+	It's your imaginationation which comes alive with your design
 	</marquee>
 	<hr>
 	
