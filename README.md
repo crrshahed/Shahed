@@ -12,7 +12,7 @@
 	<h3 align="center">User Experience (UX) and User Interface (UI) Designer</h3>
 	<center>
 		<a href="https://www.facebook.com/RRSHAHED" target="_blank">
-				<img src="SHAHED_FACE_PSD.png" width="150px" height="163px" align="middle"/>
+				<img src="Facebook.png" width="150px" height="163px" align="middle"/>
 		</a>
 	</center>
 	<!--<img src="SHAHED_FACE_PSD.png" width="120px" height="160px"/>-->
