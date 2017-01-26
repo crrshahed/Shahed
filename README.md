@@ -1,10 +1,13 @@
-
+<!DOCTYPE html>
 <html>
-<body>
+  <head>
+  <title> </title>
+  </head>
+  
+  <body>
 
-<center>
-<img src="pic.png">
-</center>
-
-</body>
+  <center>
+  <img src="pic.png">
+  </center>
+  </body>
 </html>
